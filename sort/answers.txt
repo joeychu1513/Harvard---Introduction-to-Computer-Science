@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: except sort2 merge, shortest time in sorted
+
+sort2 uses: Merge
+
+How do you know?: shortest time in random10000.txt and random50000.txt
+
+sort3 uses: Selection
+
+How do you know?: apart from merge, longest time in sorted
